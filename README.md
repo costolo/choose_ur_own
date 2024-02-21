@@ -16,8 +16,8 @@ Download and install Git
 # Dev environment
 Download and install VS Code
 - https://code.visualstudio.com/
-Clone this repo
-Open Terminal, and navigate to the repository
-Run `npm install` to install project dependencies
-Run `npm run dev` to start the server
+- Clone this repo
+- Open Terminal, and navigate to the repository
+- Run `npm install` to install project dependencies
+- Run `npm run dev` to start the server
 
